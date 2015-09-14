@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Radianox
+Type=X-GNOME-Metatheme
+Comment=Gtk 2.0 Equinox theme - Radianox
+Name[fr_FR]=Radianox
+
+[X-GNOME-Metatheme]
+GtkTheme=Radianox
+MetacityTheme=Radianox
+IconTheme=ubuntu-mono-dark
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close:
