@@ -8,7 +8,7 @@ Radianox is an Equinox Radiance modification.
 
 
 # Changelog
-- Fixed a problem in the panelbar.
+- Fixed some problems in the panelbar.
 - Change button actions to left.
 - Change scrollbar arrows to top.
 - Change icons size in toolbars.
